@@ -28,16 +28,4 @@ This is a real-time chat website that allows users to connect with each other an
 
 ---
 
-## 🛠 Configuration and Setup
-
-To run this project locally, follow these steps:
-
-1. **Fork and Clone**: Fork the repository and clone it to your local machine, or download the ZIP file and unzip it.
-
-2. **Open in Code Editor**: Open the project in your preferred code editor.
-
-3. **Terminal Setup**: 
-   - Open a new terminal (e.g., in VS Code).
-   - Split the terminal into two: one for the client and one for the server.
-
 
