@@ -2,11 +2,6 @@
 
 This is a real-time chat website that allows users to connect with each other and chat instantly. Built using the **MERN stack** (MongoDB, Express.js, React.js, and Node.js), **Socket.io**, **Redux Toolkit**, and **Tailwind CSS**, this application provides a seamless chat experience.
 
-![Chat Website Demo](link_to_your_demo_image) <!-- Replace with an appropriate demo image link -->
-
-## 🌟 If you liked it, please give this Repository a Star! ⭐
-
-## 🎥 [YouTube Demo](link_to_your_youtube_demo)
 
 ---
 
@@ -45,8 +40,4 @@ To run this project locally, follow these steps:
    - Open a new terminal (e.g., in VS Code).
    - Split the terminal into two: one for the client and one for the server.
 
-### Client Setup
 
-1. Navigate to the client directory:
-   ```bash
-   cd client
